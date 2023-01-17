@@ -6,3 +6,4 @@
 - lombok 적용
 - Controller 선정
 - DB 구성
+- Test 파일 작성
