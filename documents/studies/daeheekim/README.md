@@ -9,5 +9,5 @@
   - Spring Boot
   - JPA
 
-- 아이디어 회의
-  - 위치 좌표에 기록하는 것을 기술적으로 활용하는 방안 탐색
+- Database Design
+  - Users, Groups, Plans, Logs, Comments
