@@ -7,3 +7,6 @@
 - Controller 선정
 - DB 구성
 - Test 파일 작성
+- Controller 사용
+- findAll() 사용
+- package 로 분할
