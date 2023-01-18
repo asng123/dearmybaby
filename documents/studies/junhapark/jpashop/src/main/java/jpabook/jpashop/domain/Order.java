@@ -1,5 +1,6 @@
 package jpabook.jpashop.domain;
 
+import jpabook.jpashop.domain.item.Delivery;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -21,11 +22,15 @@ public class Order {
     @JoinColumn(name = "member_id")
     private Member member;
 
+    @OneToMany(mappedBy = "order")
     private List<OrderItem> orderItems = new ArrayList<>();
 
+    @OneToOne
+    @JoinColumn(name = "delivery_id")
     private Delivery delivery;
 
     private LocalDateTime orderDate; // order date
 
+    @Enumerated(EnumType.STRING)
     private OrderStatus status; // order status (ORDER / CANCEL)
 }
