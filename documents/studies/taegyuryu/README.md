@@ -10,3 +10,5 @@
 - Controller 사용
 - findAll() 사용
 - package 로 분할
+- GetMapping()
+- RequestMapping()
