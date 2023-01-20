@@ -39,3 +39,6 @@
     - 화장실
     - 길상태 (유모차)
     - 렌트카
+
+- Setting ESLint & Prettier in ViteJS
+  - https://cathalmacdonnacha.com/setting-up-eslint-prettier-in-vitejs
