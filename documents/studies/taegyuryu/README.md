@@ -15,7 +15,7 @@
 - Test 파일 작성
 - Controller 사용
 - findAll() 사용
-
+  
 ### 0119
 - package 로 분할
 - GetMapping()
@@ -24,3 +24,7 @@
 ### 0120
 - 프로젝트 이미지 구성
 - 핵심 기능 확정
+
+### 0125
+- ERD 작성
+- Entity 작성 학습
