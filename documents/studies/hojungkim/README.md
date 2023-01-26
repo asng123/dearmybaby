@@ -346,3 +346,13 @@
   - 발바닥 누르면 사진이냐 앨범이냐
   - 영상 가져오고 gps기반으로 제목에 현주소 넣고
   - 텍스트입력 여부는 자유
+
+---
+
+### 230126
+
+-  프로젝트 기본 구조_directory setting
+  
+  - 참고
+
+<img src="file:///C:/Users/SSAFY/Desktop/Image%20Pasted%20at%202023-1-26%2010-12.png" title="" alt="Image Pasted at 2023-1-26 10-12.png" width="526">
