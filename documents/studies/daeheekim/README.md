@@ -14,6 +14,7 @@
   - Users, Groups, Plans, Logs, Comments
 
 - 타겟층 조사 (어린이, 부모)
+
   - 시설
     - 문화센터
     - 놀이터
@@ -41,4 +42,8 @@
     - 렌트카
 
 - Setting ESLint & Prettier in ViteJS
+
   - https://cathalmacdonnacha.com/setting-up-eslint-prettier-in-vitejs
+
+- Static Resource Handling in Spring Boot
+  - https://tecoble.techcourse.co.kr/post/2021-11-24-spring-customize-unhandled-api/
